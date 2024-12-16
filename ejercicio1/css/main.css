@@ -1,0 +1,66 @@
+/* ------------------------------------------------- */
+/* Main styles                                       */
+/* ------------------------------------------------- */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    margin: 0.5rem;
+    padding: 0.5rem;
+    font-family: 'Lato', sans-serif;
+    color: #bcbbbb;    
+}
+
+.main-container {
+    max-width: 800px;
+}
+
+.title {
+    text-align: right;
+    text-transform: uppercase; 
+    /* font-weight: lighter;           */
+}
+
+.title > h1 {
+    padding-top: 1rem; 
+    padding-top: 0.5rem;     
+    font-size: 3.4rem;
+    font-weight: lighter;   /* Inherited but overwritten by user agent stylesheet */ 
+}
+
+.title > h3 {
+    color: black; 
+    padding-bottom: 1rem;
+    font-weight: lighter;   /* Inherited but overwritten by user agent stylesheet */
+}
+
+hr {
+    border: thin solid;
+    margin-bottom: 1.5rem; 
+}
+
+h2 {
+    font-size: xx-large;
+    font-weight: bold;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+    padding-left: 1.5rem;
+}
+
+.item {
+    text-align: center; 
+    color: #747704;  
+}
+
+.item > h3 {
+    text-transform: uppercase;
+    font-size: xx-large;
+}
+
+.item > a {
+    text-decoration: none;
+    font-size: smaller;    
+    color: #747704; /* Inherited but overwritten by user agent stylesheet */
+}
