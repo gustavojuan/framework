@@ -1,0 +1,16 @@
+.card {
+    background-color: white;
+    padding: 36px;    
+}
+
+
+
+
+.badge {
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    border: 1px solid var(--brand-primary)
+    
+
+}

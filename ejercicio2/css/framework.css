@@ -50,3 +50,6 @@ img {
 .col-12 { width: 100% }
 
 
+.align-items-center {
+    align-items: center;
+}

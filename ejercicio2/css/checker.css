@@ -1,0 +1,13 @@
+/* ------------------------------------------------- */
+/* Checker                                           */
+/* ------------------------------------------------- */
+#checker-button {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    z-index: 100;
+}
+
+/* * {
+    outline: 1px solid red !important;
+} */
